@@ -1,1 +1,2 @@
-1 arquivo mais
+1 arquivo mais.
+Passo 2: Arquivo modificado
